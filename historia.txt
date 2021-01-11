@@ -4,3 +4,7 @@ Gerardo tiene 44 años y 10 meses nacio en México,
 CDMX
 
 Hoy habalremos de su historia
+
+Mido 1.69 metros
+
+Hoy es desarrollador en Beneficia.
